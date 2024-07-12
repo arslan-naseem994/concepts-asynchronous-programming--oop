@@ -1,0 +1,49 @@
+Object-Oriented Programming (OOP) 
+is a way of writing computer programs 
+using the idea of "objects" to represent data and methods. Imagine you 
+have a toy box. Each toy in the box can be thought of as an "object"; 
+they each have their own features (like data) and things they can do 
+(like methods).
+
+
+Here's a simple explanation of the four main OOP concepts:
+
+
+Encapsulation: 
+This is like each toy having a box of its own. You can't 
+change or even see the toy's parts directly; you can only play with it 
+using the buttons and levers on the box. In programming, this means keeping
+the inner workings private and only exposing what's necessary for others
+to interact with it.
+
+
+Inheritance: 
+Suppose you have a basic toy car. Now, you want to make a 
+fire truck toy. Instead of creating a new toy from scratch, you take the
+toy car and add new features to it, like a ladder and a siren. Inheritance
+lets you create a new class (fire truck) based on an existing class 
+(toy car), inheriting its features and adding new ones.
+
+Polymorphism: 
+This is like having a control that can play with any toy. 
+Whether it's a toy car, a toy plane, or a toy boat, you use the same 
+control, but it makes each toy do different things. In programming, 
+polymorphism lets you use a single interface to control different types 
+of objects, and each object responds in its own way.
+
+Abstraction: 
+This is like knowing that you can play with a toy by pressing 
+buttons without knowing how the toy works inside. You don't need to know 
+the mechanics of how the toy car moves; you just need to know what buttons 
+to press. Abstraction in programming means creating simple models of 
+complex things by highlighting what an object can do and hiding how 
+it does it.
+
+
+In Flutter, 
+these concepts are used all the time with widgets. Each widget is like 
+an object: it has its own properties (data) and methods 
+(functions it can perform). When you create a new widget by extending 
+another one, you're using inheritance. When you override a widget's 
+method, that's polymorphism. And the way you interact with widgets 
+without needing to know their internal workings is abstraction.

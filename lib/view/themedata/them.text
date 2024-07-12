@@ -1,0 +1,32 @@
+
+colorScheme: Defines the color palette for your app, including primary, secondary, and error colors, 
+among others.
+primaryColor: The background color for major parts of the app (toolbars, tabs, etc.).
+accentColor: The color of secondary elements (floating action buttons, selection controls, etc.).
+appBarTheme: Customizes the look of the AppBar.
+buttonTheme: Defines the default configuration of button widgets like RaisedButton.
+iconTheme: Specifies the default color, opacity, and size for icons.
+textTheme: Defines the text styling for various text elements in your app.
+inputDecorationTheme: Defines the default styling for InputDecorations like those used in TextField.
+scaffoldBackgroundColor: The default color of the Scaffold widget, which is the background color for most pages.
+cardTheme: Customizes the look of Card widgets.
+tabBarTheme: Customizes the look of TabBar widgets.
+floatingActionButtonTheme: Customizes the look of FloatingActionButtons.
+bottomAppBarTheme: Customizes the look of the BottomAppBar.
+dividerTheme: Customizes the look of Dividers and VerticalDividers.
+backgroundColor: The default color of the Material widget. It's used as the default color of Scaffold and Dialog elements.
+dialogTheme: Customizes the shape of dialog widgets.
+elevatedButtonTheme: Customizes the look of ElevatedButtons.
+outlinedButtonTheme: Customizes the look of OutlinedButtons.
+textButtonTheme: Customizes the look of TextButtons.
+snackBarTheme: Customizes the look of SnackBars.
+chipTheme: Customizes the look of Chips.
+drawerTheme: Customizes the look of Drawers.
+sliderTheme: Customizes the look of Sliders.
+tooltipTheme: Customizes the look of Tooltips.
+navigationRailTheme: Customizes the look of NavigationRails.
+dataTableTheme: Customizes the look of DataTables.
+checkboxTheme: Customizes the look of Checkbox widgets.
+radioTheme: Customizes the look of Radio buttons.
+switchTheme: Customizes the look of Switch widgets.
+progressIndicatorTheme: Customizes the look of progress indicators like CircularProgressIndicator.
